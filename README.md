@@ -3,15 +3,15 @@ Hybrid Recommendation System
 This repository contains code for a hybrid recommendation system that combines collaborative filtering and content-based filtering techniques. The system utilizes data analysis and machine learning algorithms to generate personalized recommendations for users based on their preferences and item similarities.
 
 Table of Contents
-Overview
-Installation
-Usage
-Data
-Algorithm
-Evaluation
-Results
-Contributing
-License
+1. Overview
+2. Installation
+3. Usage
+4. Data
+5. Algorithm
+6. Evaluation
+7. Results
+8. Contributing
+9. License
 
 Overview
 The hybrid recommendation system aims to provide accurate and relevant recommendations by combining collaborative filtering and content-based filtering approaches. Collaborative filtering leverages the behavior and preferences of similar users, while content-based filtering focuses on item characteristics and similarities.
